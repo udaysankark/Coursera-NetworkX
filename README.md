@@ -6,6 +6,7 @@ guided course. (https://rhyme.com/c/network-data-science-with-networkx-and-pytho
 
 
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/udaysankark/Coursera-NetworkX/master)
 
-8.5+6.5+6+6+5.5+5.5+5.5
-5+6+6+4+4+8+4
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/udaysankark/Coursera-NetworkX/master
